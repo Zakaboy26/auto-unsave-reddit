@@ -3,7 +3,7 @@
 // @namespace    https://github.com/Zakaboy26
 // @version      1.2
 // @description  Automatically unsaves all posts on old.reddit.com
-// @author       You
+// @author       Zakaboy26
 // @match        https://old.reddit.com/user/*/saved*
 // @grant        none
 // ==/UserScript==
