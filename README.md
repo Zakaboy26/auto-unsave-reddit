@@ -44,4 +44,5 @@ This is a personal project and does not currently accept contributions. You are 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Zakaboy26/auto-unsave-reddit/blob/main/LICENSE) file for details.
+
