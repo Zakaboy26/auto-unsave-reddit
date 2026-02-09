@@ -1,6 +1,6 @@
 # Auto Unsave Reddit Posts
 
-A userscript that fully automates the process of unsaving all posts on **old.reddit.com**. Designed to work with Tampermonkey, Greasemonkey, and Violentmonkey. Just copy and paste the script into your userscript manager—no cloning or installation needed.
+A userscript that fully automates the process of unsaving all posts on **old.reddit.com**. Designed to work with Tampermonkey, Greasemonkey, and Violentmonkey. Just copy and paste the script into your userscript manager, no cloning or installation needed.
 
 ## Features
 
