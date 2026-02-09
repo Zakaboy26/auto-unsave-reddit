@@ -37,7 +37,7 @@ A userscript that fully automates the process of unsaving all posts on **old.red
 
 ## Disclaimer
 
-Use at your own risk. Only run this on your own account. The author is not responsible for any account issues or rate-limiting actions taken by Reddit.
+Use at your own risk. Only run this on your own account. I'm is not responsible for any account issues or rate-limiting actions taken.
 
 ## Contributing
 This is a personal project and does not currently accept contributions. You are welcome to fork it and make improvements for your own use, as I am unlikely to update it in the future.
